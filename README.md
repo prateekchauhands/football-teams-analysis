@@ -1,4 +1,4 @@
-# Big 5 European Leagues Teams Analysis
+# Football Teams Analysis | Big 5 European Leagues 
 
 ## Overview
 This project aims to analyze and visualize the stats, performances, and comparisons of various football teams from the top 5 leagues across Europe from season 2001-02 onwards. The data is sourced from the Football-Data website. The data has been webscraped using the Beautiful Soup package and exported to a CSV file. Then, the data has been processed using Power BI to create a database for easy management, analysis, and exploration of the data visually and to gain valuable insights.
@@ -32,9 +32,9 @@ Based on the analysis of all the matches of the Top 5 European League Teams from
 - So clearly, Half Time momentum matters, and teams that are trying to win the league or avoid relegation should focus equally on their half time results as much as they do on their full time results.
 
 ## Dashboard Preview
-Click the link to access the interactive dashboard - [Big 5 European Leagues Teams Analysis](https://app.powerbi.com/view?r=eyJrIjoiM2ZjOWQwZDctMDkyMi00MDA5LTlhNzUtYTk2ODZlYmZhNWNlIiwidCI6ImRlYTFmNTJjLTI4OWYtNGZiMS05MDU5LTVmMWY3ZjdlNDRjYyJ9)
+Click the link to access the interactive dashboard - [Football Teams Analysis](https://app.powerbi.com/view?r=eyJrIjoiM2ZjOWQwZDctMDkyMi00MDA5LTlhNzUtYTk2ODZlYmZhNWNlIiwidCI6ImRlYTFmNTJjLTI4OWYtNGZiMS05MDU5LTVmMWY3ZjdlNDRjYyJ9)
 
-![Big 5 European Leagues Teams Analysis](/images/football-teams-analysis.png)
+![Football Teams Analysis](/images/football-teams-analysis.png)
 
 ## Author
 - Prateek Chauhan
